@@ -6,7 +6,7 @@
  */
 moviesModule.factory('moviesData', function($http) {
     
-    var baseUrl = 'http://restarantino.herokuapp.com/';
+    var baseUrl = 'https://restarantino.herokuapp.com/';
 
     return {
         getMovies: function() {
