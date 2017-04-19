@@ -1,7 +1,7 @@
 A Web Frontend for listing movies
 =================================
 
-Live preview at http://antoine-richard.github.io/angular-movie-workshop/
+Live preview at http://antoine-richard.github.io/movie-frontend/
 
 Backend 
 -------
